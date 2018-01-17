@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPSNetCore20WebApp", "RPSNetCore20WebApp\RPSNetCore20WebApp.csproj", "{D21C84F4-BF4A-4A1D-80D4-5C6F7507B9F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D21C84F4-BF4A-4A1D-80D4-5C6F7507B9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21C84F4-BF4A-4A1D-80D4-5C6F7507B9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21C84F4-BF4A-4A1D-80D4-5C6F7507B9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21C84F4-BF4A-4A1D-80D4-5C6F7507B9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7696EA23-50D5-4BBC-8269-D8EC51AE8A57}
+	EndGlobalSection
+EndGlobal
